@@ -11,7 +11,7 @@ In this project rigorous testing is done on the MTNL Website. After testing the 
 6. Database Testing
 7. Security Testing
 
-## AUTOMATION TOOL USED : DUCK CREEK TEST AUTOMATION (TAC)
+## AUTOMATION TOOL USED : DUCK CREEK TEST AUTOMATION (TAC) ![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/DuckCreekLogo_1.PNG)
 ### TAC FRAMEWORK :
 ![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/TAC%20Framework.png)
 
