@@ -11,6 +11,19 @@ In this project rigorous testing is done on the MTNL Website. After testing the 
 6. Database Testing
 7. Security Testing
 
+## PERFORMANCE TESTING
+### LOAD TESTING (TOOL USED: APACHE JMETER)
+The average throughput achieved is 146.71 Hits/sec.
+
+![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/Load%20Test%20Graph.png)
+
+
+### PERFORMANCE TESTING (TOOL USED: APACHE JMETER)
+The average response time achieved is 164.52 millisecond.
+
+![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/Response%20Time%20Graph.png)
+
+
 ## AUTOMATION TOOL USED : DUCK CREEK TEST AUTOMATION (TAC) ![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/DuckCreekLogo_1.PNG)
 ### TAC FRAMEWORK :
 ![image](https://github.com/sumnandi/MTNL-WEBSITE-TESTING/blob/main/TAC%20Framework.png)
