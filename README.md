@@ -1,4 +1,4 @@
-# MTNL-WEBSITE-TESTING
+# MTNL-WEBSITE-AUTOMATION-TESTING
 In this project rigorous testing is done on the MTNL Website. After testing the website various faults were found and are depicted along with their severity level.
 
 ## TABLE OF CONTENTS
