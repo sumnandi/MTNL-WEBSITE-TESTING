@@ -55,7 +55,7 @@ The List of faults are as follows:
 
 ### TABULAR VIEW:
 
-FAULTS SEVERITY | COUNT
+FAULT SEVERITY  | FAULT COUNT
 ----------------|------------
 MEDIUM	        |   2
 HIGH            |   9
